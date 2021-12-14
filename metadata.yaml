@@ -1,0 +1,35 @@
+_repo: Heiraten-Zwanzig-Ehegeschichten_66847
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Schering, Emil
+    birthdate: 1873
+    deathdate: 1951
+    gutenberg_agent_id: '26434'
+    url: http://www.gutenberg.org/2009/agents/26434
+    wikipedia: https://de.wikipedia.org/wiki/Emil_Schering
+creator:
+  author:
+    agent_name: Strindberg, August
+    alias: Strindberg, Johan August
+    birthdate: 1849
+    deathdate: 1912
+    gutenberg_agent_id: '1609'
+    url: http://www.gutenberg.org/2009/agents/1609
+    wikipedia:
+    - https://en.wikipedia.org/wiki/August_Strindberg
+    - https://sv.wikipedia.org/wiki/August_Strindberg
+description: ''
+gutenberg_issued: '2021-11-30'
+identifiers:
+  gutenberg: '66847'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Heiraten
+
+  Zwanzig Ehegeschichten'
+url: http://www.gutenberg.org/ebooks/66847
